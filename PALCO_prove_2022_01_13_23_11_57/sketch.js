@@ -126,7 +126,7 @@ function draw() {
   }
 }
 
-var headings = ['Total <br> Abdominal <br> Index <br> = <br> Index <br> of upper <br> abdominal','<span class="terzo">la femme presse</span>'];
+var headings = ['zio','<span class="terzo">Total <br> Abdominal <br> Index <br> = <br> Index <br> of upper <br> abdominal <br> + <br> index <br> of lower <br> abdominal</span>'];
 
 
 var i = 0;
