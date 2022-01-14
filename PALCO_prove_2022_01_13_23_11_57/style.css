@@ -1,0 +1,67 @@
+@font-face {
+  font-family: "myFont";
+ /*Specify the name of your font here. TIP: Drag and drop your file at https://www.axis-praxis.org/ to make sure it works! */
+  src: url("Palco_Test_0212GX.ttf");
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  font: 80px "myFont";
+  font-variation-settings: "wght"100th"100;
+  font-variation-settings: "wdth"100th"100;
+  border: 0px solid;
+  text-align: center;
+   
+}
+
+#status {
+  visibility: hidden;
+  d;
+}
+
+
+sketch.js {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  
+
+}
+
+.textSquare {
+  
+  }
+
+
+.vertical-center {
+  width: 100%; 
+  max-width: 100%; 
+  margin: 0; 
+  padding: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  
+}
+
+.terzo {
+ font-size: 200px;
+}
+
+  
+
+
+  
+
+
+
